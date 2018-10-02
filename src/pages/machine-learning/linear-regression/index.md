@@ -2,7 +2,8 @@
 title: Linear Regression
 ---
 ## Linear Regression
-Linear regression helps us predict score of a variable X from the scores on other variables Y. When the variables Y are plotted, linear regression finds the best-fitting straight line through the points. The best-fitting line is called a regression line.
+
+Linear regression is a method that allows us to study the relationsihip between two continuous variables. We can for example examine the score of a variable X from the scores of a variable Y. When the variables of Y are plotted, linear regression can be used to find the best-fitting line (also known as a regression line) through the points. 
 
 <a href='https://www.mladdict.com/linear-regression-simulator' target='_blank' rel='nofollow'>Online linear regression simulator</a>
 
